@@ -2,7 +2,9 @@
 # program prints a list of bicycle brands
 
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+
 print(bicycles)
+print(bicycles[0])
 
 
 
