@@ -1,4 +1,4 @@
-# motocycles.py, Chapter 03, Python Crash Course
+# motorcycles.py, Chapter 03, Python Crash Course
 # program prints list of motorcycles
 
 motorcycles = ['honda', 'yamaha', 'suzuki']
