@@ -1,4 +1,4 @@
-# motorcycles, Chapter 03, Python Crash Course
+# motorcycles2.py, Chapter 03, Python Crash Course
 # program appends to list of motorcycles
 
 motorcycles = ['honda', 'yamaha', 'suzuki']
