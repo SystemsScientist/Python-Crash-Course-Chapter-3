@@ -1,3 +1,4 @@
+# exercise_03_06.py, Chapter 03, Python Crash Course
 #
 # More Guests: You just found a bigger dinner table, so now
 # more space is available. Think of three more guests to
