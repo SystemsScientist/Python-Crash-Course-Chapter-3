@@ -17,7 +17,8 @@
 
 guest_list = ['benjamin franklin', 'frederick douglass', 
               'samuel clemens', 'alan turing', 
-              'gene roddenberry', 'mel brooks']
+              'gene roddenberry', 'mel brooks',
+              'thomas sowell']
 
 print("\n")
 print("Dinner Invitations: ")
@@ -28,6 +29,7 @@ print("Dear, Mr. " + guest_list[2].title() + "! You are cordially invited to The
 print("Dear, Dr. " + guest_list[3].title() + "! You are cordially invited to The Dinner of the Minds.")
 print("Dear, Mr. " + guest_list[4].title() + "! You are cordially invited to The Dinner of the Minds.")
 print("Dear, Mr. " + guest_list[5].title() + "! You are cordially invited to The Dinner of the Minds.")
+print("Dear, Dr. " + guest_list[6].title() + "! You are cordially invited to The Dinner of the Minds.")
 
 print("\n")
 cancellation = guest_list.pop(5)
@@ -45,6 +47,7 @@ print("Dear, Mr. " + guest_list[2].title() + "! You are cordially invited to The
 print("Dear, Dr. " + guest_list[3].title() + "! You are cordially invited to The Dinner of the Minds.")
 print("Dear, Mr. " + guest_list[4].title() + "! You are cordially invited to The Dinner of the Minds.")
 print("Dear, Dr. " + guest_list[5].title() + "! You are cordially invited to The Dinner of the Minds.")
+print("Dear, Dr. " + guest_list[6].title() + "! You are cordially invited to The Dinner of the Minds.")
 print("\n")
 
 
